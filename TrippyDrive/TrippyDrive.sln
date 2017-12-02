@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive", "Assembly-CSharp.csproj", "{C3A3599B-A008-10B8-0613-DD7D5573AE2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive", "Assembly-CSharp-firstpass.csproj", "{D0C62B40-60A4-DEB1-E4B0-4673B2A5B7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive", "Assembly-CSharp-Editor-firstpass.csproj", "{A4880FE4-67B8-DA6C-B2A8-251F4D6DAAC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{C3A3599B-A008-10B8-0613-DD7D5573AE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3A3599B-A008-10B8-0613-DD7D5573AE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3A3599B-A008-10B8-0613-DD7D5573AE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C62B40-60A4-DEB1-E4B0-4673B2A5B7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C62B40-60A4-DEB1-E4B0-4673B2A5B7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C62B40-60A4-DEB1-E4B0-4673B2A5B7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C62B40-60A4-DEB1-E4B0-4673B2A5B7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4880FE4-67B8-DA6C-B2A8-251F4D6DAAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4880FE4-67B8-DA6C-B2A8-251F4D6DAAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4880FE4-67B8-DA6C-B2A8-251F4D6DAAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4880FE4-67B8-DA6C-B2A8-251F4D6DAAC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

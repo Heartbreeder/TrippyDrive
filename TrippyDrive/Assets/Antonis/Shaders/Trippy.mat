@@ -41,7 +41,7 @@ Material:
     m_Floats:
     - _InkBleedMag: 0.002
     - _InkFadeMag: 0.075
-    - _Lighting: 0.52
+    - _Lighting: 0.377
     - _Strength: 0.15
     - _TrippyMeter: 6.31
     m_Colors: []
