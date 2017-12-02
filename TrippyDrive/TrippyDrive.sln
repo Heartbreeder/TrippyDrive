@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive", "TrippyDrive.csproj", "{924C1792-A691-5533-0652-F5AC24C2A95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive.Plugins", "TrippyDrive.Plugins.csproj", "{FFE1D13D-8F9C-DFF1-5C56-D1746DEA1453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippyDrive.Editor.Plugins", "TrippyDrive.Editor.Plugins.csproj", "{AD506642-E2EC-7D79-94A4-0800CD1D5AE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924C1792-A691-5533-0652-F5AC24C2A95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924C1792-A691-5533-0652-F5AC24C2A95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924C1792-A691-5533-0652-F5AC24C2A95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924C1792-A691-5533-0652-F5AC24C2A95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE1D13D-8F9C-DFF1-5C56-D1746DEA1453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE1D13D-8F9C-DFF1-5C56-D1746DEA1453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE1D13D-8F9C-DFF1-5C56-D1746DEA1453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1D13D-8F9C-DFF1-5C56-D1746DEA1453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD506642-E2EC-7D79-94A4-0800CD1D5AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD506642-E2EC-7D79-94A4-0800CD1D5AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD506642-E2EC-7D79-94A4-0800CD1D5AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD506642-E2EC-7D79-94A4-0800CD1D5AE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
